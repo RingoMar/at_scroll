@@ -1,0 +1,17 @@
+{
+  "name": "AT Volume Scroll",
+  "description": "Extension for using your scroll wheel to change Volume",
+  "version": "1.69.0",
+  "manifest_version": 3,
+
+  "content_scripts": [
+    {
+      "js": ["content.js"],
+      "matches": ["*://*.angelthump.com/*"],
+      "all_frames": true
+    }
+  ],
+  "icons": {
+    "128": "img/icon128.png"
+  }
+}
