@@ -1,4 +1,4 @@
-# ![logo](img/icon128.png) Angel Thump Vol Scroll
+# Angel Thump Volume Scroll
 Simple scroll to change volume extension for angelthump.com
 
 ![scrollDemo](https://i.imgur.com/aQFKMC6.gif)
