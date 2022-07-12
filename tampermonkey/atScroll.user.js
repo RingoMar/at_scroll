@@ -2,7 +2,7 @@
 // @name         AT Volume Scroll
 // @namespace    https://www.angelthump.com/
 // @version      1.0
-// @description  small, but useful tools for both regular dggers and newbies alike
+// @description  Small script to allow users to scorll on Angel Thump and control the volume
 // @author       RingoMar
 // @match        *://*.angelthump.com/*
 // @run-at       document-start
@@ -92,5 +92,4 @@
 
   document.addEventListener("wheel", onScroll, { passive: false });
 
-  // Your code here...
 })();
